@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"isorted",
+		"Jedi - Python autocompletion",
+		"MarkdownPreview",
+		"NeoVintageous",
+		"Package Control",
+		"python-black",
+		"SideBarEnhancements",
+		"SideBarTools",
+		"Terminus",
+		"Zen Tabs",
+	],
+}
