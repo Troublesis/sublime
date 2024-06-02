@@ -4,9 +4,9 @@
 	[
 		"Vintage",
 	],
-	"color_scheme": "Packages/User/Aura Theme Color Scheme/aura-theme.tmTheme",
+	"color_scheme": "Catppuccin Mocha.sublime-color-scheme",
 	// "font_face": "MesloLGS NF",
-	"font_size": 13,
+	"font_size": 28,
 	"font_face": "Fira Code",
     "highlight_line": true,
     // "margin": 20,

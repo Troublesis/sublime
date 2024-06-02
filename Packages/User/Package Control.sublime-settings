@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Catppuccin color schemes",
 		"isorted",
 		"Jedi - Python autocompletion",
 		"MarkdownPreview",
